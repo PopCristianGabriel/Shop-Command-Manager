@@ -1,0 +1,28 @@
+Clientul:Florescu Ana a cumparat:
+cu pretul de: 7.99 de la magazinul: Mega Image produsul: portocale
+cu pretul de: 3.99 de la magazinul: Auchan produsul: banane
+cu pretul de: 5.15 de la magazinul: Auchan produsul: paste
+cu pretul de: 6.2 de la magazinul: Lidl produsul: orez
+Suma totala este de: 23.329998
+
+Clientul nu a cumparat: inghetata
+
+
+Clientul:Popescu Dan a cumparat:
+cu pretul de: 7.99 de la magazinul: Mega Image produsul: portocale
+cu pretul de: 5.0 de la magazinul: Mega Image produsul: ciocolata
+cu pretul de: 3.99 de la magazinul: Auchan produsul: banane
+Suma totala este de: 16.98
+
+Clientul nu a cumparat: orez, cirese
+
+
+Clientul:Ionescu Maria a cumparat:
+cu pretul de: 2.2 de la magazinul: Auchan produsul: iaurt
+cu pretul de: 3.8 de la magazinul: Auchan produsul: paine
+cu pretul de: 2.9 de la magazinul: Auchan produsul: zahar
+Suma totala este de: 8.9
+
+Clientul nu a cumparat: cafea, orez
+
+
